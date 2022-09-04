@@ -15,7 +15,7 @@ Developer HYBRID VAMPIRE.
 ## Direct Deploy
 Click Below Button to Deploy your Bot.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lll/URL-Uploader-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maltexade1/lll)
 
 ## Support Telegram Group and Channel
 
